@@ -1,0 +1,13 @@
+!SESSION 2025-12-18 10:51:04.534 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/rishabhpandey/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/rishabhpandey/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-12-18 10:51:14.098
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-12-18 10:51:51.596
+!MESSAGE Logback config file: /Users/rishabhpandey/Desktop/BridgeLabz-Training/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
