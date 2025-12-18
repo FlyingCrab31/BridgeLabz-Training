@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class profitNloss {
+public class ProfitNloss {
 
     static int profit(int cp,int sp){
         int prof = sp -cp;

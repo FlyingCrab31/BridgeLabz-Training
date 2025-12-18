@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class basicCalc{
+public class BasicCalc{
     static float add (float  x,float y){
         return (x + y);
 

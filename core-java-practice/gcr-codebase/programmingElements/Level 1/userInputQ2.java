@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class userInputQ2{
+public class UserInputQ2{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         double km = scanner.nextDouble();

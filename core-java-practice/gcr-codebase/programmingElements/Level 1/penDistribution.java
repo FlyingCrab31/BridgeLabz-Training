@@ -1,4 +1,4 @@
-public class penDistribution{
+public class PenDistribution{
     public static void main(String[] args) {
         int noOfPEns = 14;
         int students = 3;

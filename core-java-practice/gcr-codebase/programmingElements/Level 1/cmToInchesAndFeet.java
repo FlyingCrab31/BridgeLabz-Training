@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class cmToInchesAndFeet{
+class CmToInchesAndFeet{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter length in centimeters: ");

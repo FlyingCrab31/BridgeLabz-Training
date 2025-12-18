@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class distanceToMile {
+class DistanceToMile {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         double km = scanner.nextDouble();
