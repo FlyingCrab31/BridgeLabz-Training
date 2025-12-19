@@ -4,7 +4,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 program , as recorded in the repository’s README. Tasks are grouped
 by week with thematic headings, detailing the work done on each date and day.
 
-# 1   Week 1: Getting Started with JAVA Fundamentals and Programming Basics
+#    Week 1: Getting Started with JAVA Fundamentals and Programming Basics
 
 • 16-Dec-2025 (Tue) : Installed and set up JAVA. Solved and submitted basic
 practice problems.
