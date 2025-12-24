@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class TrigonometricFunctions{
-// Method to calculate sine, cosine and tangent of an angle in degrees
+    // method to calculate sine, cosine, and tangent of an angle in degrees
 
 public double[] calculateTrigonometricFunctions(double angle){
     double radians = Math.toRadians(angle);
@@ -19,4 +19,5 @@ public static void main(String[] args) {
     System.out.printf("Cosine: %.4f\n", results[1]);
     System.out.printf("Tangent: %.4f\n", results[2]);
 
+}
 }
