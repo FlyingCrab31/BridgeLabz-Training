@@ -13,6 +13,7 @@ public class FestivalLuckyDraw {
 
         while (currentVisitor <= numberOfVisitors) {
             System.out.print("\nVisitor " + currentVisitor + " - Enter your number: ");
+            //sc.hasNextInt() checks if the next input is an integer
 
             if (!sc.hasNextInt()) {
                 System.out.println("Invalid input! Please enter a valid integer.");
