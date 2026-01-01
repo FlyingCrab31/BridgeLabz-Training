@@ -34,4 +34,4 @@ on Strings.
 
 • 25-Dec-2025 (Thu) : Holiday...
 
-• 20-Dec-2025 (Sat) : Completed and submitted Level 3 problem set of Methods and String Extras problem set.
+• 26-Dec-2025 (Sat) : Completed and submitted Level 3 problem set of Methods and String Extras problem set.
