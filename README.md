@@ -34,4 +34,18 @@ on Strings.
 
 • 25-Dec-2025 (Thu) : Holiday...
 
-• 26-Dec-2025 (Sat) : Completed and submitted Level 3 problem set of Methods and String Extras problem set.
+• 26-Dec-2025 (Fri) : Completed and submitted Level 3 problem set of Methods and String Extras problem set.
+
+# Week 3: Methods and Strings
+
+• 29-Dec-2025 (Monday): Studied methods documentation. Solved Level 1 and Level
+2 problems on methods.
+
+• 30-Dec-2025 (Tuesday): Solved and submitted practice problems on methods.
+
+• 31-Dec-2025 (Wednesday): Read documentation on strings. Solved practice prob-
+lems on strings.
+
+• 1-Jan-2026 (Thursday): Studied built-in methods and time documentation. Solved
+related practice problems.
+
