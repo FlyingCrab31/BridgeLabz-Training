@@ -49,3 +49,18 @@ lems on strings.
 • 1-Jan-2026 (Thursday): Studied built-in methods and time documentation. Solved
 related practice problems.
 
+• 2-Jan-2026 (Friday): Read documentation on classes and objects. Solved practice
+problems.
+
+# Week 4: Object-Oriented Programming Fundamentals
+
+• 3-Jan-2026 (Saturday): Studied constructors and modifiers. Solved related prac-
+tice problems.
+
+• 5-Jan-2026 (Monday): Read about instance and class variables. Solved modifiers
+and variables practice problems.
+
+• 6-Jan-2026 (Tue): Studied object-oriented programming concepts and read about this, sealed, static keywords, and is op-
+erator. Solved and submitted practice problems.
+
+
