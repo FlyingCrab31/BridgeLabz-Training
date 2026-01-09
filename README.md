@@ -63,4 +63,10 @@ and variables practice problems.
 • 6-Jan-2026 (Tue): Studied object-oriented programming concepts and read about this, sealed, static keywords, and is op-
 erator. Solved and submitted practice problems.
 
+• 7-Jan-2026 (Wed): Studied object modeling and OOP concepts. Solved object modeling practice problems.Read about object modeling, abstraction, and encapsu lation. Solved and submitted object modeling problems.
 
+
+• 8-Jan-2026 (Thu): Studied inheritance. Solved practice problems on inheritance. Read about inheritance and interfaces. Solved and submitted inheritance practice problems. Studied encapsulation, interfaces, abstract classes, and polymorphism. Solved and submitted practice problems.
+
+
+• 9-Jan-2026 (Fri): Read LinkedList documentation. Practiced its implementation. Solved and submitted LinkedList practice problems.
