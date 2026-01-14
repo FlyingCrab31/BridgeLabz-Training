@@ -17,6 +17,7 @@ class Node {
 
 }
 
+// Class
 public class StudentRecordSll {
 
     Node head;
