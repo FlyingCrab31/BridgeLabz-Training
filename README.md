@@ -69,11 +69,13 @@ erator. Solved and submitted practice problems.
 • 8-Jan-2026 (Thu): Studied inheritance. Solved practice problems on inheritance. Read about inheritance and interfaces. Solved and submitted inheritance practice problems. Studied encapsulation, interfaces, abstract classes, and polymorphism. Solved and submitted practice problems.
 
 
-• 9-Jan-2026 (Fri): Read LinkedList documentation. Practiced its implementation. Solved and submitted LinkedList practice problems.
+• 9-Jan-2026 (Fri): Read LinkedList documentation. Practiced its implementation. 
 
-• 12-Jan-2026 (Mon): Studied Stack, Queue, and HashMap. Solved and sub mitted practice problems.
+# Week 5: Advance OOP and Data Structure
 
-• 13-Jan-2026 (Tue): Solved and Submitted some scenario based questions on DS.
+• 12-Jan-2026 (Mon):  Solved and submitted LinkedList practice problems.Studied Stack, Queue, and HashMap.
+
+• 13-Jan-2026 (Tue): Solved and Submitted some scenario based questions on DS and Solved and submitted practice problems on Stack, Queue.
 
 • 14-Jan-2026 (Wed):  Read about sorting algorithms. Solved and submitted some DS questions on hashmaps and functions.
 
