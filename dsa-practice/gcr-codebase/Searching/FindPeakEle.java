@@ -18,8 +18,9 @@ public class FindPeakEle {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1, 2, 3, 1};
+        int[] nums = {1, 2, 3, 4, 5, 0, 1,}; // Array in which we have to find the peak
         FindPeakEle peak = new FindPeakEle();
+
         System.out.println(peak.findPeakElement(nums));
     }
 
