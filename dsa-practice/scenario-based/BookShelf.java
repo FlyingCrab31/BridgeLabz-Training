@@ -3,10 +3,10 @@ import java.util.*;
 
 class Book {
 
-    private String title;
-    private String author;
-    private String isbn;
-    private String genre;
+    private final String title;
+    private final String author;
+    private final String isbn;
+    private final String genre;
 
     // constructor, getters
     public Book(String title, String author, String isbn, String genre) {
@@ -49,9 +49,9 @@ class Book {
 
 class BookShelf {
 
-    private Map<String, LinkedList<Book>> catalog = new HashMap<>();
+    private final Map<String, LinkedList<Book>> catalog = new HashMap<>();
     // optional: to avoid duplicates
-    private Map<String, HashSet<Book>> genreSets = new HashMap<>();
+    private final Map<String, HashSet<Book>> genreSets = new HashMap<>();
 
     // get or create list for genre
     private LinkedList<Book> getList(String genre) {
