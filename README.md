@@ -79,3 +79,18 @@ erator. Solved and submitted practice problems.
 
 • 14-Jan-2026 (Wed):  Read about sorting algorithms. Solved and submitted some DS questions on hashmaps and functions.
 
+• 15-Jan-2026 (Thu): Studied StringBuilder, BufferedReader, and searching.
+Solved and submitted practice problems.
+
+• 16-Jan-2026 (Fri): Solved and Submitted scenario based questions on DS and Solved and submitted practice problems.
+
+• 17-Jan-2026 (Sat): Solved and submitted practice problems on InputStream Reader and BufferReader
+
+# Week 6: Complexity, Generics, and Collections
+
+• 19-Jan-2026 (Mon): Studied complexity and generic classes. Solved and sub-
+mitted complexity practice problems.
+
+• 20-Jan-2026 (Tue): Solved and submitted Scenario based on oops and DSA.
+
+• 21-Jan-2026 (Wed): Solved and submitted generic class practice problems, read about collections.
