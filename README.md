@@ -94,3 +94,14 @@ mitted complexity practice problems.
 • 20-Jan-2026 (Tue): Solved and submitted Scenario based on oops and DSA.
 
 • 21-Jan-2026 (Wed): Solved and submitted generic class practice problems, read about collections.
+
+• 22-Jan-2026 (Thu): Solved and submitted generic class practice problems.Solved and submitted practice
+problems on Collections.
+
+• 23-Jan-2026 (Fri): Solved Scenario based and read about streams.
+
+# Week 7: Streams,Exception Handling,Testing
+
+• 27-Jan-2026 (Tue): Solved and submitted stream question and exceptionHandling problems.
+
+• 28-Jan-2026 (Wed): Solved and submitted Scenario Based Problems.
