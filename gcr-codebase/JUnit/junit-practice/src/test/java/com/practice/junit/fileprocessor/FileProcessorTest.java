@@ -28,7 +28,7 @@ public class FileProcessorTest {
 	@Test
 	
 	void testWriteAndReadFiles() throws IOException{
-		String content="Hello guys this is riddhi srivastava";
+		String content="Hello guys this is Rishabh";
 		
 		fileprocessor.writeToFile(testFile.toString(),content);
 		String result=fileprocessor.readFromFile(testFile.toString());
