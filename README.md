@@ -105,3 +105,16 @@ problems on Collections.
 • 27-Jan-2026 (Tue): Solved and submitted stream question and exceptionHandling problems.
 
 • 28-Jan-2026 (Wed): Solved and submitted Scenario Based Problems.
+
+• 29-Jan-2026 (Thu): Read about regex and learned JUnit.Solved and submitted practice problems
+
+• 30-Jan-2026 (Fri): Solved and submitted practice problems on Annotations and reflections
+
+# Week 8: Advanced Topics and File Handling
+
+• 2-Feb-2026 (Mon): Learned about CSV file handling. Solved and submitted
+practice problems.
+
+• 3-Feb-2026 (Tue): Learned about JSON file handling. Solved and submitted practice problems.
+
+• 4-Feb-2026 (Wed): Learned about Lambda Expressions and Functional Interfaces. Solved and submitted practice problems.
