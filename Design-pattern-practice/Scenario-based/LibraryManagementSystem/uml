@@ -1,0 +1,76 @@
++--------------------+
+|   LibraryCatalog   |   <<Singleton>>
++--------------------+
+| - instance         |
+| - books : List<Book> |
+| - observers : List<Observer> |
++--------------------+
+| + getInstance()    |
+| + addBook(Book)    |
+| + addObserver(Observer) |
+| + removeObserver(Observer) |
+| + showAllBooks()   |
++--------------------+
+          |
+          | uses
+          v
++--------------------+
+|       Book         |
++--------------------+
+| - title            |
+| - author           |
+| - edition          |
+| - genre            |
++--------------------+
+| + getTitle()       |
++--------------------+
+          ^
+          |
+          | builds
+          |
++--------------------+
+|   BookBuilder      |
++--------------------+
+| - title            |
+| - author           |
+| - edition          |
+| - genre            |
++--------------------+
+| + author()         |
+| + edition()        |
+| + genre()          |
+| + build()          |
++--------------------+
+
+
++--------------------+
+|     Observer       |  <<interface>>
++--------------------+
+| + update(String)   |
++--------------------+
+          ^
+          |
+          | implements
+          |
++--------------------+
+|       User         |  <<interface>>
++--------------------+
+| + showRole()       |
++--------------------+
+   ^        ^        ^
+   |        |        |
++--------+ +--------+ +-----------+
+| Student| | Faculty| | Librarian |
++--------+ +--------+ +-----------+
+| - name | | - name | | - name    |
++--------+ +--------+ +-----------+
+| update()| update()| update()    |
+| showRole()         |
++--------------------+
+
+
++--------------------+
+|   UserFactory      |  <<Factory>>
++--------------------+
+| + createUser()     |
++--------------------+
