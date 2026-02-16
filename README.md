@@ -118,3 +118,27 @@ practice problems.
 • 3-Feb-2026 (Tue): Learned about JSON file handling. Solved and submitted practice problems.
 
 • 4-Feb-2026 (Wed): Learned about Lambda Expressions and Functional Interfaces. Solved and submitted practice problems.
+
+• 5-Feb-2026 (Thu): Solved and submitted Scenario-Based problems.
+
+• 6-Feb-2026 (Fri): Solved and submitted OceanFleet  Scenario-Based problem.
+
+• 7-Feb-2026 (Sat):Learned about Design Pattern and MultiThreading.
+
+# Week 9 : Design Pattern and MultiThreading
+
+• 9-Feb-2026 (Mon): Solved and submitted Design Pattern and MultiThreading.
+
+• 10-Feb-2026 (Tue): Mock Test
+
+• 11-Feb-2026 (Wed): learned and worked on SonarQube Integretion.
+
+• 12-Feb-2026 (Thu): Solved and submitted SonarQube Integretion.
+
+• 13-Feb-2026 (Fri): Learned and done the Setup for JDBC and DBMS.
+
+• 14-Feb-2026 (Sat): Solved and submitted JDBC problem.
+
+# Week 10 : TomCat-Servlet & SpringBoot Setup
+
+• 16-Feb-2026 (Mon): Solved EmployeeWage Computation and AddressBook problem.
