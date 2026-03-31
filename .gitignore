@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Eclipse
+.metadata/
+*.log
+
+# IDE
+.settings/
+.classpath
+.project
