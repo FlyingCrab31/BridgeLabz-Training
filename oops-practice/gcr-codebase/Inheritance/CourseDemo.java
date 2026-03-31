@@ -1,0 +1,70 @@
+class Course {
+    protected String courseName;
+    protected int duration; // in hours or weeks
+
+    public Course(String courseName, int duration) {
+        this.courseName = courseName;
+        this.duration = duration;
+    }
+
+    public void displayInfo() {
+        System.out.println("Course Name: " + courseName);
+        System.out.println("Duration   : " + duration);
+    }
+}
+class OnlineCourse extends Course {
+    protected String platform;   // e.g., "Udemy", "Coursera"
+    protected boolean isRecorded;
+
+    public OnlineCourse(String courseName, int duration,
+                        String platform, boolean isRecorded) {
+        super(courseName, duration);
+        this.platform = platform;
+        this.isRecorded = isRecorded;
+    }
+
+    @Override
+    public void displayInfo() {
+        super.displayInfo();
+        System.out.println("Platform   : " + platform);
+        System.out.println("Recorded   : " + isRecorded);
+    }
+}
+class PaidOnlineCourse extends OnlineCourse {
+    private final double fee;
+    private final double discount; // percentage, e.g., 10.0 = 10%
+
+    public PaidOnlineCourse(String courseName, int duration,
+                            String platform, boolean isRecorded,
+                            double fee, double discount) {
+        super(courseName, duration, platform, isRecorded);
+        this.fee = fee;
+        this.discount = discount;
+    }
+
+    public double getFinalFee() {
+        return fee - (fee * discount / 100.0);
+    }
+
+    @Override
+    public void displayInfo() {
+        super.displayInfo();
+        System.out.println("Fee        : " + fee);
+        System.out.println("Discount   : " + discount + "%");
+        System.out.println("Final Fee  : " + getFinalFee());
+    }
+}
+public class CourseDemo {
+    public static void main(String[] args) {
+        PaidOnlineCourse poc = new PaidOnlineCourse(
+                "Java OOP Mastery",
+                40,
+                "Udemy",
+                true,
+                3999.0,
+                20.0
+        );
+
+        poc.displayInfo();
+    }
+}
