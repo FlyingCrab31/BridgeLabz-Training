@@ -23,7 +23,9 @@ This branch contains my day-wise backend refresher training assignments, practic
 | Day 7 | 10-Aug-2026 | Contact App, Spring Boot, Spring Initializr, MVC architecture, database connectivity | Completed |
 | Day 8 | 11-Aug-2026 | Project App, Spring Boot, Spring Initializr, MVC architecture, database connectivity | Completed |
 | Day 9 | 12-Aug-2026 | Spring Boot auto-configuration, starters, embedded server, REST API basics, Contact App REST APIs | Completed |
-| Day 10 | 14-Aug-2026 | Contact App REST APIs, layered architecture, request validation, H2 in-memory database | Completed |
+| Day 10 | 13-Aug-2026 | Contact App REST APIs, layered architecture, request validation, H2 in-memory database | Completed |
+| Day 11 | 14-Aug-2026 | Contact App REST APIs, layered Spring Boot structure, validation, global exception handling, H2 database | Completed |
+| Day 12 | 17-Aug-2026 | Contact App REST APIs, layered architecture, mapper-based DTO conversion, CORS configuration, environment profiles, H2 database | Completed |
 
 ---
 
@@ -41,6 +43,8 @@ Refresher-Training/
 +-- Day-8/ (project-app)
 +-- Day-9/ (contactApp)
 +-- Day-10/ (contactApp)
++-- Day-11/ (contactApp)
++-- Day-12/ (contactApp)
 ```
 
 ---
@@ -266,4 +270,50 @@ Refresher-Training/
 
 ---
 
-**Last Updated:** 16-Aug-2026
+## Day 11 Summary
+
+### Topics Covered
+- Contact App REST APIs
+- Spring Boot layered architecture
+- Controller, service, repository, mapper, entity, and DTO layers
+- Request validation with Jakarta Validation
+- Global exception handling
+- H2 in-memory database
+- REST endpoint design under `/api/contacts`
+
+### Assignment Completed
+- Built the Day 11 Contact App as a layered Spring Boot REST application.
+- Implemented create, read, update, delete, and list endpoints for contacts.
+- Added request validation for required contact fields and email format.
+- Used a mapper to convert between request DTOs, entities, and response DTOs.
+- Added global exception handling for missing contact records.
+- Connected the application to an H2 in-memory database for persistence.
+
+---
+
+## Day 12 Summary
+
+### Topics Covered
+- Spring Boot layered architecture
+- Controller, service, repository, mapper, entity, and DTO layers
+- Request validation with Jakarta Validation
+- Global exception handling
+- CORS configuration
+- Environment-specific configuration with `application-dev.yml` and `application-prod.yml`
+- H2 in-memory database
+- REST endpoint design under `/api/contacts`
+- Simple home page response at `/` and `/home`
+
+### Assignment Completed
+- Built the Day 12 Contact App as a layered Spring Boot REST application.
+- Implemented create, read, update, delete, and list endpoints for contacts.
+- Added request validation for required contact fields and email format.
+- Used a mapper to convert between request DTOs, entities, and response DTOs.
+- Added global exception handling for missing contact records.
+- Configured CORS to allow browser clients to call the API.
+- Added a basic HTML home page for the application landing route.
+- Connected the application to an H2 in-memory database for persistence.
+
+---
+
+**Last Updated:** 17-Aug-2026
